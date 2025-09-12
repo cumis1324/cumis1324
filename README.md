@@ -1,4 +1,4 @@
-![Cumis's GitHub stats](https://github-readme-stats.vercel.app/api?username=cumis1324&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumis1324&layout=compact&theme=radical&show_icons=true)
 
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical&show_icons=true)](https://github.com/cumis1324/github-readme-stats)
