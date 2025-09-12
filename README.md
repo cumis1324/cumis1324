@@ -1,4 +1,3 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumis1324&layout=compact&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cumis1324&layout=compact&theme=radical&show_icons=true&card_width=768)
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical&show_icons=true)](https://github.com/cumis1324/Paione)
