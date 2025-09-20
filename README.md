@@ -14,10 +14,10 @@ Fullstack developer with experience in Android, backend (Python Flask), and web 
 ### BarcodeScanner
 Android app for barcode scanning (Kotlin, Jetpack Compose, Gradle)
 
-### hibaru
+### nfgplus
 Android streaming app for movies & TV (Kotlin, Jetpack, Firebase, TMDB API)
 
-### JBB-Panel
+### Paione
 Web admin panel for packing list & barcode management (Python Flask, Vue.js, SQL Server)
 
 ### ApiCmt
